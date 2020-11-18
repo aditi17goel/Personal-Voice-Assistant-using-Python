@@ -26,9 +26,9 @@ When the user specify the appropriate trigger words, Breezy gets activated and e
 		
 		
 3. Fetch top headlines from Times of India
-	
-         
-	        Human: Hey Breezy, what's the latest news?
+		
+		
+		Human: Hey Breezy, what's the latest news?
 		
 		
 4. Captures a photo
