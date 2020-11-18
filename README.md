@@ -22,19 +22,19 @@ When the user specify the appropriate trigger words, Breezy gets activated and e
 2. Predicts time 
 	
 	
-		Human : Hey Breezy, What is the time
+		Human: Hey Breezy, What is the time
 		
 		
-3.Fetch top headlines from Times of India
+3. Fetch top headlines from Times of India
 	
          
-		Human:Hey Breezy, what's the latest news?
+	        Human: Hey Breezy, what's the latest news?
 		
 		
 4. Captures a photo
 	
   		
-		Human:Hey Breezy, Take a photo
+		Human: Hey Breezy, Take a photo
 		
 		
 5. Searches data from web
@@ -70,7 +70,7 @@ When the user specify the appropriate trigger words, Breezy gets activated and e
 	  	Human: Hey Breezy, Who created you? / Hey G-One , What can you do
 		
 		
-10.Turn off your pc when required
+10. Turn off your pc when required
    		
 
    		 Human: Hey Breezy, Please turn off my PC
