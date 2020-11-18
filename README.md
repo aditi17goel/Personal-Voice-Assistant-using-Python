@@ -56,7 +56,7 @@ When the user specify the appropriate trigger words, Q2 gets activated and execu
 8. Abstarct necessary information from wikipedia
 	
    		
-		Human: Hey Q2, Who is Bill Gates according to Wikipedia?
+		Human: Hey Q2, who is Bill Gates according to Wikipedia?
 		
 		
    The voice assistant abstarcts first 3 lines of wikipedia and gives the information to the user.
@@ -65,33 +65,33 @@ When the user specify the appropriate trigger words, Q2 gets activated and execu
 9. Ask Q2 about what task it can perform and who created it
 	
    		
-	  	Human: Hey Q2, Who created you? / Hey Q2, What can you do?
+	  	Human: Hey Q2, who created you? / Hey Q2, what can you do?
 		
 		
 10. Turn off your pc when required
    		
 
-   		 Human: Hey Q2, Please turn off my PC.
+   		 Human: Hey Q2, please turn off my PC.
 
 
 
 ### Libraries required to be installed using pip command:
 	
-	1.Json
+	1.json
 	
 	2.request
 	
-	3.Speech recognition
+	3.speech recognition
 	
- 	4.Pyttsx3
+ 	4.pyttsx3
 	
-	5.Wikipedia
+	5.wikipedia
 	
-	6.Ecapture
+	6.ecapture
 	
 	7.time
 	
-	8.Wolfram Alpha
+	8.wolfram alpha
 
 
 ### In-Built libraries required to be imported:
