@@ -64,7 +64,7 @@ When the user specify the appropriate trigger words, Breezy gets activated and e
    The voice assistant abstarcts first 3 lines of wikipedia and gives the information to the user.
 	
 	
-9. Ask G-One about what task it can perform and who created it
+9. Ask Breezy about what task it can perform and who created it
 	
    		
 	  	Human: Hey Breezy, Who created you? / Hey G-One , What can you do
