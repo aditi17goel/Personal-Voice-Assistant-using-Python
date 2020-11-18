@@ -1,13 +1,11 @@
 # Personal_Voice_Assistant_Using_Python
 
-A project to build a voice assistant using Python. The voice assistant interacts with the humans to perform basic tasks.
 
+### About Q2 :
 
-### About Breezy :
+Q2 is a personal voice assistant service built using Python. It can understand human speech and perform basic task designed by the client.
 
-Breezy is a personal voice assistant service built using Python. It can understand human speech and perform basic task designed by the client.
-
-When the user specify the appropriate trigger words, Breezy gets activated and executes the user commands.
+When the user specify the appropriate trigger words, Q2 gets activated and executes the user commands.
 
 
 ### The implemented Voice assistant can perform the following tasks:
@@ -16,64 +14,64 @@ When the user specify the appropriate trigger words, Breezy gets activated and e
 1. Opens a wepage : Youtube, GMail, Google Chrome, StackOverflow 
 	
 	
-		Human : Hey Breezy, Open Youtube
+		Human : Hey Q2, open Youtube.
 		
 		
 2. Predicts time 
 	
 	
-		Human: Hey Breezy, What is the time
+		Human: Hey Q2, what is the time?
 		
 		
 3. Fetch top headlines from Times of India
 		
 		
-		Human: Hey Breezy, what's the latest news?
+		Human: Hey Q2, what's the latest news?
 		
 		
 4. Captures a photo
 	
   		
-		Human: Hey Breezy, Take a photo
+		Human: Hey Q2, take a photo.
 		
 		
 5. Searches data from web
 	
    		
-		Human: Hey Breezy, Search Butterfly images from web
+		Human: Hey Q2, search flower images from web.
 		
 		
 6. Ask geographical and computational questions
 	
   	 	
-		Human: Hey Breezy, What is the capital of California? / Hey G-One what is Sin 90?
+		Human: Hey Q2, what is the capital of California? / Hey Q2, what is sin 90?
 		
 		
-7. Predict Weather of different cities
+7. Predict weather of different cities
    		
 	
-		Human: Hey Breezy, What is the weather likely now in Kerala?
+		Human: Hey Q2, how is the weather in Kerala?
 		
 	
 8. Abstarct necessary information from wikipedia
 	
    		
-		Human: Hey Breezy, Who is Bill Gates according to Wikipedia
+		Human: Hey Q2, Who is Bill Gates according to Wikipedia?
 		
 		
    The voice assistant abstarcts first 3 lines of wikipedia and gives the information to the user.
 	
 	
-9. Ask Breezy about what task it can perform and who created it
+9. Ask Q2 about what task it can perform and who created it
 	
    		
-	  	Human: Hey Breezy, Who created you? / Hey G-One , What can you do
+	  	Human: Hey Q2, Who created you? / Hey Q2, What can you do?
 		
 		
 10. Turn off your pc when required
    		
 
-   		 Human: Hey Breezy, Please turn off my PC
+   		 Human: Hey Q2, Please turn off my PC.
 
 
 
