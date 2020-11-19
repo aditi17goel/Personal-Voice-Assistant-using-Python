@@ -3,7 +3,7 @@
 
 ### About Q2 :
 
-Q2 is a personal voice assistant service built using Python. It can understand human speech and perform basic task designed by the client.
+Q2 is a personal voice assistant service built using Python for Linux. It can understand human speech and perform basic task designed by the client.
 
 When the user specify the appropriate trigger words, Q2 gets activated and executes the user commands.
 
